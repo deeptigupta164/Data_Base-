@@ -1,4 +1,4 @@
-This repository contains well-organized solutions to Database (DBMS) question papers for MCA courses affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU).
+This repository contains well-organized Notes,Assignments and solutions to Previous Year Database (DBMS) question papers for MCA courses affiliated with Dr. A.P.J. Abdul Kalam Technical University (AKTU).
 The aim of this repository is to help students:Understand exam-oriented concepts,Practice previous year questions and strengthen their DBMS fundamentals.
 
 
